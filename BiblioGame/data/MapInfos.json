@@ -1,6 +1,7 @@
 [
 null,
+{"id":1,"expanded":true,"name":"BloqueK","order":1,"parentId":0,"scrollX":730.6666666666666,"scrollY":553.3333333333334},
 null,
-{"id":2,"expanded":true,"name":"Nivel 1","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Nivel1.1","order":2,"parentId":2,"scrollX":754.2857142857142,"scrollY":497.99999999999994}
+null,
+{"id":4,"expanded":false,"name":"Piso1","order":2,"parentId":1,"scrollX":1117.7142857142856,"scrollY":606.8571428571428}
 ]
