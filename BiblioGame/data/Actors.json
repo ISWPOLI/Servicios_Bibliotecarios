@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"hombre","characterIndex":0,"characterName":"Hombre","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Hombre","traits":[],"initialLevel":1,"maxLevel":10,"name":"Hombre","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Chris","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Chris","traits":[],"initialLevel":1,"maxLevel":99,"name":"Christian","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
