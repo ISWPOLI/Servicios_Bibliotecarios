@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Introduccion","order":1,"parentId":0,"scrollX":534,"scrollY":319},
-{"id":2,"expanded":true,"name":"Entrada","order":2,"parentId":0,"scrollX":534,"scrollY":305},
-{"id":3,"expanded":true,"name":"Interior Universidad","order":3,"parentId":2,"scrollX":840,"scrollY":297},
-{"id":4,"expanded":true,"name":"Biblioteca","order":4,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Piso1","order":5,"parentId":3,"scrollX":886,"scrollY":297},
-{"id":6,"expanded":true,"name":"BloqueK","order":6,"parentId":2,"scrollX":534,"scrollY":429}
+{"id":1,"expanded":false,"name":"Introduccion","order":1,"parentId":0,"scrollX":813,"scrollY":457.5},
+{"id":2,"expanded":true,"name":"Entrada","order":2,"parentId":0,"scrollX":813,"scrollY":457.5},
+{"id":3,"expanded":true,"name":"Interior Universidad","order":3,"parentId":2,"scrollX":879,"scrollY":445.5},
+{"id":4,"expanded":true,"name":"Biblioteca","order":4,"parentId":3,"scrollX":813,"scrollY":457.5},
+{"id":5,"expanded":false,"name":"Piso1","order":5,"parentId":3,"scrollX":625,"scrollY":297},
+{"id":6,"expanded":true,"name":"BloqueK","order":6,"parentId":3,"scrollX":801,"scrollY":457.5}
 ]
