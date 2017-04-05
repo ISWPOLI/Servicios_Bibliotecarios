@@ -1,5 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Chris","characterIndex":0,"characterName":"Chris","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Chris","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Chica","characterIndex":0,"characterName":"Chica","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Chica","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Chica","characterIndex":0,"characterName":"Chica","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Chica","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"People4","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Federico","nickname":"Federico","note":"","profile":"Estudiante modelo."},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"People4","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sara","nickname":"Sara","note":"","profile":"Estudiante despistada."}
 ]
