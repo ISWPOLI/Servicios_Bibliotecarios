@@ -1,11 +1,13 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Introduccion","order":1,"parentId":0,"scrollX":534,"scrollY":319},
-{"id":2,"expanded":true,"name":"Entrada","order":2,"parentId":0,"scrollX":819,"scrollY":461.5},
-{"id":3,"expanded":true,"name":"Interior Universidad Intro","order":3,"parentId":2,"scrollX":916,"scrollY":580.6666666666666},
-{"id":4,"expanded":false,"name":"BloqueAdmin","order":8,"parentId":8,"scrollX":745.3333333333334,"scrollY":810},
-{"id":5,"expanded":true,"name":"Piso1","order":7,"parentId":7,"scrollX":1322.6666666666667,"scrollY":390},
-{"id":6,"expanded":true,"name":"BloqueKIntro","order":4,"parentId":3,"scrollX":811,"scrollY":498.5},
-{"id":7,"expanded":true,"name":"BloqueK","order":6,"parentId":8,"scrollX":745.3333333333334,"scrollY":390},
-{"id":8,"expanded":true,"name":"Interior Universidad","order":5,"parentId":2,"scrollX":886.6666666666666,"scrollY":390}
+{"id":1,"expanded":false,"name":"Introduccion","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
+{"id":2,"expanded":true,"name":"Entrada","order":2,"parentId":0,"scrollX":817,"scrollY":461.5},
+{"id":3,"expanded":true,"name":"Interior Universidad Intro","order":3,"parentId":2,"scrollX":871,"scrollY":453.5},
+{"id":4,"expanded":false,"name":"BloqueAdmin","order":10,"parentId":8,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"Piso1","order":7,"parentId":7,"scrollX":1092,"scrollY":606},
+{"id":6,"expanded":true,"name":"BloqueKIntro","order":4,"parentId":3,"scrollX":809,"scrollY":461.5},
+{"id":7,"expanded":true,"name":"BloqueK","order":6,"parentId":8,"scrollX":1084,"scrollY":610},
+{"id":8,"expanded":true,"name":"Interior Universidad","order":5,"parentId":2,"scrollX":1084,"scrollY":610},
+{"id":9,"expanded":false,"name":"Segundo Piso","order":8,"parentId":7,"scrollX":1084,"scrollY":610},
+{"id":10,"expanded":true,"name":"Piso subterraneo","order":9,"parentId":7,"scrollX":1348,"scrollY":992}
 ]
