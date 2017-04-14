@@ -8,8 +8,8 @@ null,
 {"id":6,"expanded":true,"name":"BloqueKIntro","order":4,"parentId":3,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":7,"expanded":true,"name":"BloqueK","order":6,"parentId":8,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":8,"expanded":true,"name":"Interior Universidad","order":5,"parentId":2,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":9,"expanded":false,"name":"Segundo Piso","order":8,"parentId":7,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":10,"expanded":true,"name":"Piso subterraneo","order":9,"parentId":7,"scrollX":1282.909090909091,"scrollY":984},
+{"id":9,"expanded":false,"name":"Segundo Piso","order":8,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":true,"name":"Piso subterraneo","order":9,"parentId":7,"scrollX":1165.0909090909092,"scrollY":984},
 {"id":11,"expanded":false,"name":"Juego Celular","order":12,"parentId":4,"scrollX":1400.5714285714284,"scrollY":791.1428571428571},
 {"id":12,"expanded":true,"name":"Tercer piso","order":10,"parentId":7,"scrollX":1248,"scrollY":984}
 ]
