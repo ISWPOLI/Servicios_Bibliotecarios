@@ -12,5 +12,5 @@ null,
 {"id":10,"expanded":true,"name":"Piso subterraneo","order":9,"parentId":7,"scrollX":1282.909090909091,"scrollY":984},
 {"id":11,"expanded":false,"name":"Juego Celular","order":12,"parentId":4,"scrollX":916,"scrollY":581.3333333333334},
 {"id":12,"expanded":true,"name":"Tercer piso","order":10,"parentId":7,"scrollX":1100.5714285714284,"scrollY":1122.857142857143},
-{"id":13,"expanded":true,"name":"Bloque Bienestar","order":13,"parentId":8,"scrollX":712,"scrollY":553.3333333333334}
+{"id":13,"expanded":true,"name":"Bloque Bienestar","order":13,"parentId":8,"scrollX":712,"scrollY":508.6666666666667}
 ]
