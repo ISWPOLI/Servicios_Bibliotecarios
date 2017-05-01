@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"salones de clase y pasillo","order":1,"parentId":0,"scrollX":1424,"scrollY":1825.3333333333333}
+{"id":1,"expanded":true,"name":"salones de clase y pasillo","order":1,"parentId":0,"scrollX":1424,"scrollY":1825.3333333333333},
+{"id":2,"expanded":false,"name":"edificio exterior salones y paillo","order":2,"parentId":1,"scrollX":802.6666666666666,"scrollY":1174.6666666666667}
 ]
