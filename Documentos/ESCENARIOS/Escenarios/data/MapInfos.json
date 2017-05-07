@@ -1,0 +1,8 @@
+[
+null,
+null,
+{"id":2,"expanded":true,"name":"Cafeteria","order":1,"parentId":0,"scrollX":860.5714285714286,"scrollY":515.1428571428571},
+{"id":3,"expanded":true,"name":"Piso subterraneo","order":2,"parentId":0,"scrollX":1124.5714285714284,"scrollY":890.5714285714286},
+{"id":4,"expanded":true,"name":"Segundo Piso","order":3,"parentId":0,"scrollX":846.8571428571428,"scrollY":588.8571428571428},
+{"id":5,"expanded":true,"name":"Tercer piso","order":4,"parentId":0,"scrollX":1234.2857142857142,"scrollY":635.1428571428571}
+]
