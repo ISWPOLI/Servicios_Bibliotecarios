@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Introduccion","order":1,"parentId":0,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":2,"expanded":true,"name":"Entrada","order":2,"parentId":0,"scrollX":1400.5714285714284,"scrollY":791.1428571428571},
+{"id":3,"expanded":true,"name":"Interior Universidad Intro","order":3,"parentId":2,"scrollX":1400.5714285714284,"scrollY":791.1428571428571},
+{"id":4,"expanded":true,"name":"BloqueAdmin","order":11,"parentId":8,"scrollX":1388.5714285714284,"scrollY":775.7142857142857},
+{"id":5,"expanded":true,"name":"Piso1","order":7,"parentId":7,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":6,"expanded":true,"name":"BloqueKIntro","order":4,"parentId":3,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":7,"expanded":true,"name":"BloqueK","order":6,"parentId":8,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":8,"expanded":true,"name":"Interior Universidad","order":5,"parentId":2,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":9,"expanded":false,"name":"Segundo Piso","order":8,"parentId":7,"scrollX":1400.5714285714284,"scrollY":791.1428571428571},
+{"id":10,"expanded":true,"name":"Piso subterraneo","order":9,"parentId":7,"scrollX":1424.3999999999999,"scrollY":831},
+{"id":11,"expanded":false,"name":"Juego Celular","order":12,"parentId":4,"scrollX":1388.5714285714284,"scrollY":775.7142857142857},
+{"id":12,"expanded":true,"name":"Tercer piso","order":10,"parentId":7,"scrollX":1375.2,"scrollY":1281},
+{"id":13,"expanded":true,"name":"Bloque Bienestar","order":13,"parentId":8,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":14,"expanded":true,"name":"Misión_Sueño","order":14,"parentId":13,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":15,"expanded":false,"name":"Reto_Sueño","order":15,"parentId":14,"scrollX":1404,"scrollY":791.1428571428571},
+{"id":16,"expanded":false,"name":"Mundo_Misterioso","order":16,"parentId":8,"scrollX":1404,"scrollY":791.1428571428571}
+]
