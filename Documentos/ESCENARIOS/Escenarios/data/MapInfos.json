@@ -2,9 +2,8 @@
 null,
 {"id":1,"expanded":false,"name":"Virgilio","order":5,"parentId":0,"scrollX":1182.5454545454545,"scrollY":666.5454545454546},
 {"id":2,"expanded":true,"name":"Cafeteria","order":1,"parentId":0,"scrollX":733.5,"scrollY":509.25},
-{"id":3,"expanded":true,"name":"Primer piso","order":2,"parentId":0,"scrollX":1165.3333333333333,"scrollY":648.6666666666666},
-{"id":4,"expanded":true,"name":"Tercer Piso","order":3,"parentId":0,"scrollX":652,"scrollY":666},
-{"id":5,"expanded":true,"name":"cuarto piso","order":4,"parentId":0,"scrollX":1182.6666666666667,"scrollY":666},
-{"id":6,"expanded":false,"name":"BiliotecaVirgilio","order":6,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"Segundo piso","order":7,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428}
+{"id":3,"expanded":true,"name":"Primer piso","order":2,"parentId":0,"scrollX":1165.7142857142856,"scrollY":648.8571428571428},
+{"id":4,"expanded":true,"name":"Tercer Piso","order":3,"parentId":0,"scrollX":1084,"scrollY":611},
+{"id":5,"expanded":true,"name":"cuarto piso","order":4,"parentId":0,"scrollX":1182.5454545454545,"scrollY":666.5454545454546},
+{"id":6,"expanded":false,"name":"BiliotecaVirgilio","order":6,"parentId":1,"scrollX":832,"scrollY":640}
 ]
