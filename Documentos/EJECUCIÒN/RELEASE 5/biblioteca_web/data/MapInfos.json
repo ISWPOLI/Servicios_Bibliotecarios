@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Introduccion","order":1,"parentId":0,"scrollX":720,"scrollY":400.6666666666667},
+{"id":2,"expanded":true,"name":"Entrada","order":2,"parentId":0,"scrollX":925.7142857142857,"scrollY":515.1428571428571},
+{"id":3,"expanded":true,"name":"Interior Universidad Intro","order":3,"parentId":2,"scrollX":912,"scrollY":588.6666666666666},
+{"id":4,"expanded":false,"name":"BloqueAdmin","order":11,"parentId":8,"scrollX":730.6666666666666,"scrollY":588.6666666666666},
+{"id":5,"expanded":true,"name":"Piso1","order":7,"parentId":7,"scrollX":709.3333333333334,"scrollY":666},
+{"id":6,"expanded":true,"name":"BloqueKIntro","order":4,"parentId":3,"scrollX":730.6666666666666,"scrollY":570},
+{"id":7,"expanded":true,"name":"BloqueK","order":6,"parentId":8,"scrollX":730.6666666666666,"scrollY":570},
+{"id":8,"expanded":true,"name":"Interior Universidad","order":5,"parentId":2,"scrollX":970.6666666666666,"scrollY":714},
+{"id":9,"expanded":false,"name":"Segundo Piso","order":8,"parentId":7,"scrollX":709.3333333333334,"scrollY":703.3333333333334},
+{"id":10,"expanded":true,"name":"Piso subterraneo","order":9,"parentId":7,"scrollX":1126.6666666666667,"scrollY":810},
+{"id":11,"expanded":false,"name":"Juego Celular","order":12,"parentId":4,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":12,"expanded":true,"name":"Tercer piso","order":10,"parentId":7,"scrollX":1126.6666666666667,"scrollY":762},
+{"id":13,"expanded":false,"name":"Bloque Bienestar","order":13,"parentId":8,"scrollX":1178.1818181818182,"scrollY":655.6363636363636},
+{"id":14,"expanded":false,"name":"Misión_Sueño","order":14,"parentId":13,"scrollX":1178.1818181818182,"scrollY":655.6363636363636},
+{"id":15,"expanded":false,"name":"Reto_Sueño","order":15,"parentId":14,"scrollX":911.9999999999999,"scrollY":666},
+{"id":16,"expanded":false,"name":"Mundo_Misterioso","order":17,"parentId":8,"scrollX":925.7142857142857,"scrollY":515.1428571428571},
+{"id":17,"expanded":false,"name":"Pantalla_pierde","order":16,"parentId":14,"scrollX":925.7142857142857,"scrollY":515.1428571428571},
+{"id":18,"expanded":false,"name":"Guarida_Enemigo","order":18,"parentId":8,"scrollX":911.9999999999999,"scrollY":684.8571428571428}
+]
